@@ -1,0 +1,9 @@
+---
+title: "Students know best, right?"
+author: "Heaton Emily"
+topic: "01"
+layout: post
+root: ../../../
+---
+My worst experience with data started in 2009, and is ongoing. I got a job as an assistant professor at a satisfactory university (this one - yay!), and got my first grant. Life was fantastic! But I didn't think I had enough money to hire a grad student to run the experiment, so I decided to teach undergraduates to collect the data, then analyze and write it up myself. I consider myself better with words than numbers, and thought that pretty much anyone would do a better job of organizing data than I would. So, I hired  presumably tech-savvy ag engineering, undergrads, and taught them how to take field measurements. I gave them templates for worksheets to enter data in the field, and set up Excel files into which they should enter that data. Then I looked away. Now, 7 years later, I have multiple, ugly, inconsistent versions of those files. Dates are entered in multiple formats, or not at all. Comment boxes are everywhere. Formulas are used in parts of the spreadsheet, but not others. 
+This experience stands out to me because it is hugely embarrassing, and perhaps reveals that I am not the only one who doesn't know how to steward data well. If I were to go back, I would hire a dedicated grad student for the project, then meet with regularly to look at both data and results, to make sure I could understand their data and recreate their results as needed. And never trust undergrads to work overly independently.
