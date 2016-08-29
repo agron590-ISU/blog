@@ -15,5 +15,6 @@ Blog assignments for Agron 590RD @ ISU.
 
 ## Due dates
 1. [Data nightmares](https://github.com/agron590-ISU/blog/blob/master/01/LastnameFirstname.Rmd) - Due Aug. 31
+2. [Ten simple steps](https://github.com/agron590-ISU/blog/blob/master/01/LastnameFirstname.Rmd) - Due Sep. 7th  
 
 
