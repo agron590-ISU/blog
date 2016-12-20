@@ -1,0 +1,17 @@
+---
+title: "S-A-C"
+author: "Ohene Akuoko"
+topic: "07"
+layout: post
+root: ../../../
+---
+
+The split- apply-combine method is simply the breaki down of larger datasets made up of multiple variables into multiple smaller datasets and data frames
+that can be more easily updated and edited with the purpose of ultimately relationating these together with each other in a larger dataset.
+
+We have seen such a method before in the concept of creating  relational databases. The ERD in essence is designed to degrade larger data sets into more 
+manageable portions or tables that have relation with each other and functions can be appplied to query and summarize desired data
+
+S-A-Cs have many advantages as oppposed to simply handling a "big data" set byits self. One advantage is the ease of use unlike  in the looping technique 
+in basic R. The "plyr" package that these SACs use is much simpler and eliminates alot of unnecessary code increasing the ease of use. 
+(The SACs are also writtten in a more literate way) Another benefit in the plyr package of the SACs, is the way the data is manged and output in the  puts out multiple forms of outputs while base R only outputs data frames and lists and not in a lists.
